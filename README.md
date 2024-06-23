@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adityasama09" target="blank"><img src="https://img.shields.io/twitter/follow/adityasama09?logo=twitter&style=for-the-badge" alt="adityasama09" /></a> </p>
 
-- 🔭 I’m currently working on [leetcode forms](https://privaterepo-six.vercel.app)
+- 🔭 I’m currently working on [leetcode board](https://privaterepo-six.vercel.app)
 
 - 📫 How to reach me **adityajr0114@gmail.com**
 
